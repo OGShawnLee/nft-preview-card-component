@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [To be added](https://your-solution-url.com)
+- Solution URL: [Right here!](https://www.frontendmentor.io/solutions/flexbox-nft-preview-card-component-with-svelte-windicss-vite-ryuvGQv7c)
 - Live Site URL: [Deployed on Vercel](https://nft-preview-card-component-livid-chi.vercel.app/)
 
 ## My process
